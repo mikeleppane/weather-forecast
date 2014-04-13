@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/xml">
+        <file>states.xml</file>
+    </qresource>
+</RCC>

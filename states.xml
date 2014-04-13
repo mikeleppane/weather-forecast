@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng"
+    yahoo:count="51" yahoo:created="2014-03-20T17:16:40Z" yahoo:lang="en-US">
+    <results>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347575">
+            <woeid>2347575</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Kansas</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347595">
+            <woeid>2347595</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Oklahoma</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347584">
+            <woeid>2347584</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Missouri</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347562">
+            <woeid>2347562</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Arkansas</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347574">
+            <woeid>2347574</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Iowa</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347586">
+            <woeid>2347586</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Nebraska</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347572">
+            <woeid>2347572</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Illinois</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347583">
+            <woeid>2347583</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Mississippi</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347602">
+            <woeid>2347602</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Texas</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347577">
+            <woeid>2347577</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Louisiana</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347576">
+            <woeid>2347576</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Kentucky</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347564">
+            <woeid>2347564</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Colorado</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347600">
+            <woeid>2347600</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>South Dakota</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347573">
+            <woeid>2347573</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Indiana</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347601">
+            <woeid>2347601</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Tennessee</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347608">
+            <woeid>2347608</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Wisconsin</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347559">
+            <woeid>2347559</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Alabama</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347590">
+            <woeid>2347590</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>New Mexico</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347582">
+            <woeid>2347582</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Minnesota</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347581">
+            <woeid>2347581</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Michigan</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347609">
+            <woeid>2347609</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Wyoming</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347594">
+            <woeid>2347594</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Ohio</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347593">
+            <woeid>2347593</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>North Dakota</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347569">
+            <woeid>2347569</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Georgia</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347607">
+            <woeid>2347607</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>West Virginia</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347605">
+            <woeid>2347605</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Virginia</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347603">
+            <woeid>2347603</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Utah</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347592">
+            <woeid>2347592</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>North Carolina</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347599">
+            <woeid>2347599</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>South Carolina</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347561">
+            <woeid>2347561</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Arizona</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347585">
+            <woeid>2347585</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Montana</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347567">
+            <woeid>2347567</woeid>
+            <placeTypeName code="8">District</placeTypeName>
+            <name>District of Columbia</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347597">
+            <woeid>2347597</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Pennsylvania</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347568">
+            <woeid>2347568</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Florida</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347579">
+            <woeid>2347579</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Maryland</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347566">
+            <woeid>2347566</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Delaware</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347591">
+            <woeid>2347591</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>New York</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347571">
+            <woeid>2347571</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Idaho</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347587">
+            <woeid>2347587</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Nevada</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347589">
+            <woeid>2347589</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>New Jersey</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347563">
+            <woeid>2347563</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>California</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347565">
+            <woeid>2347565</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Connecticut</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347604">
+            <woeid>2347604</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Vermont</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347598">
+            <woeid>2347598</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Rhode Island</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347580">
+            <woeid>2347580</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Massachusetts</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347588">
+            <woeid>2347588</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>New Hampshire</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347596">
+            <woeid>2347596</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Oregon</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347606">
+            <woeid>2347606</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Washington</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347578">
+            <woeid>2347578</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Maine</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347560">
+            <woeid>2347560</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Alaska</name>
+        </place>
+        <place xmlns="http://where.yahooapis.com/v1/schema.rng"
+            xml:lang="en-US" yahoo:uri="http://where.yahooapis.com/v1/place/2347570">
+            <woeid>2347570</woeid>
+            <placeTypeName code="8">State</placeTypeName>
+            <name>Hawaii</name>
+        </place>
+    </results>
+</query>
